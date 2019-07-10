@@ -1,14 +1,13 @@
 {
-  "name": "gatsby-starter-portfolio-cara",
-  "description": "Playful & Colorful One-Page website with Parallax effect powered by react-spring, TailwindCSS.",
-  "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "name": "lpmco",
+  "description": "managing projects for social good.",
+  "version": "1.0.0",
+  "author": "lpmco",
   "license": "MIT",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
     "gatsby": "^2.13.7",
     "gatsby-image": "^2.2.4",
-    "gatsby-plugin-google-analytics": "^2.1.1",
     "gatsby-plugin-manifest": "^2.2.1",
     "gatsby-plugin-netlify": "^2.1.0",
     "gatsby-plugin-offline": "^2.2.1",
@@ -53,11 +52,11 @@
     "prettier": "^1.18.2"
   },
   "repository": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara",
+    "url": "https://github.com/smallsam/lpmco",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/LekoArts/gatsby-starter-portfolio-cara/issues"
+    "url": "https://github.com/smallsam/lpmco/issues"
   },
-  "homepage": "https://cara.lekoarts.de"
+  "homepage": "https://www.lpmcompany.com.au"
 }
