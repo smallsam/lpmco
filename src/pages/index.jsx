@@ -60,7 +60,7 @@ const Footer = styled.footer`
 const Index = () => (
   <>
     <Layout />
-    <Parallax pages={5}>
+    <Parallax pages={3}>
       <Hero offset={0}>
         <BigTitle>
           Hello, <br /> this is LPMCo
@@ -68,7 +68,7 @@ const Index = () => (
         <Subtitle>the little project management company.<br />
           We manage projects for social good</Subtitle>
       </Hero>
-      <About offset={3}>
+      <About offset={1}>
         <Title>About</Title>
         <AboutHero>
           <Avatar src={avatar} alt="Carolyn McCall" />
@@ -80,7 +80,7 @@ const Index = () => (
           Carolyn is an experienced Programme Manager working with start-ups, small businesses, charities and larger organisations on projects to help develop strategic goals and achieve organic growth and sustainability. Carolyn has considerable programme experience managing a range of large scale and grass roots programs.
         </AboutDesc>
       </About>
-      <Contact offset={4}>
+      <Contact offset={2}>
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
