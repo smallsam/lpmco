@@ -1,55 +1,4 @@
-![](https://i.imgur.com/hWB1XRO.png)
-
-# Gatsby Starter Portfolio: Cara
-
-A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
-
-[Demo Website](https://cara.lekoarts.de)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LeKoArts/gatsby-starter-portfolio-cara) [![Edit gatsby-starter-portfolio-cara](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/LeKoArts/gatsby-starter-portfolio-cara/tree/master/)
-
-[![CircleCI](https://circleci.com/gh/LekoArts/gatsby-starter-portfolio-cara.svg?style=svg)](https://circleci.com/gh/LekoArts/gatsby-starter-portfolio-cara) [![Netlify Status](https://api.netlify.com/api/v1/badges/88bbaef1-6f83-4894-8acd-e6512ff39265/deploy-status)](https://app.netlify.com/sites/portfolio-cara/deploys)
-
-- TailwindCSS & styled-components
-- React Spring
-- Playful & Colorful One-Page website with Parallax effect
-
-Thanks to [@bradlc](https://github.com/bradlc)’s work on [babel-plugin-tailwind-components](https://github.com/bradlc/babel-plugin-tailwind-components), we can easily get the power of Tailwind without the stylesheet bloat by passing Tailwind classes into styled-components with **Babel macros** 🎉.
-
-## Why?
-
-If you want to quickly bootstrap a design/photography portfolio or use it as a foundation for your personal site, the starters in _gatsby-starter-portfolio_ are a perfect fit for you! The project's goal is to offer minimalistic and fast websites.
-
-I hope you like my starters and create something awesome! To see some of my work, you can visit my [website](https://www.lekoarts.de) or support me on [Patreon](https://www.patreon.com/lekoarts) to get some neat rewards (4K images, project files, tutorial insights). Every pledge on Patreon helps me create more free starters!
-
-Also, check out the other starters for _gatsby-starter-portfolio_:
-
-- [gatsby-starter-portfolio-emma](https://github.com/LekoArts/gatsby-starter-portfolio-emma)
-- [gatsby-starter-portfolio-emilia](https://github.com/LekoArts/gatsby-starter-portfolio-emilia)
-- [gatsby-starter-portfolio-bella](https://github.com/LekoArts/gatsby-starter-portfolio-bella)
-- [gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie)
-
-Check out the [Gatsby Starter Portfolio Overview](https://gatsby-starter-portfolio.netlify.com/)!
-
-## Features
-
-- [React Spring](https://github.com/drcmda/react-spring) (Used for Parallax effect)
-- [TailwindCSS](https://tailwindcss.com/) & [styled-components](https://www.styled-components.com/) for styling
-  - Use the full power of TailwindCSS while generating small styles (as unused data gets deleted)
-  - Uses `tailwind.macro` (Babel macro) to have hot-reloading of Tailwind styles
-- SEO
-  - Schema.org JSONLD
-  - OpenGraph Tags
-  - Twitter Tags
-- [Typefaces](https://github.com/KyleAMathews/typefaces) for quicker font loading
-- Offline Support
-- WebApp Manifest Support
-- Responsive images
-  - The right image size for every screen size
-  - Traced SVG Loading (Lazy-Loading)
-  - WebP Support
-
-**Please note:** The parallax effect can be quite heavy for some older CPUs and the site uses some newer CSS features which will result in incompatibility with older browsers.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9493403a-4f73-4791-b6ca-012329bbddf2/deploy-status)](https://app.netlify.com/sites/wizardly-kare-17728e/deploys)
 
 ## Getting Started
 
@@ -57,14 +6,6 @@ Check your development environment! You'll need [Node.js](https://nodejs.org/en/
 
 - [Gatsby on Windows](https://www.gatsbyjs.org/docs/gatsby-on-windows/)
 - [Check your development environment](https://www.gatsbyjs.org/tutorial/part-zero/)
-
-To copy and install this starter run this command (with "project-name" being the name of your folder you wish to install it in):
-
-```
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-cara
-cd project-name
-npm run dev
-```
 
 ### Adding new features/plugins
 

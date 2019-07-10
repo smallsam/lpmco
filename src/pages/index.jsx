@@ -63,11 +63,11 @@ const Index = () => (
     <Parallax pages={5}>
       <Hero offset={0}>
         <BigTitle>
-          Hello, <br /> I'm John Doe.
+          Hello, <br /> this is LPMCo
         </BigTitle>
-        <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+        <Subtitle>We're managing projects for social good</Subtitle>
       </Hero>
-      <Projects offset={1}>
+      <!--<Projects offset={1}>
         <Title>Projects</Title>
         <ProjectsWrapper>
           <ProjectCard
@@ -91,15 +91,8 @@ const Index = () => (
           >
             Recreation of a Tomb Raider Wallpaper (Fan Art)
           </ProjectCard>
-          <ProjectCard
-            title="Eagle"
-            link="https://www.behance.net/gallery/38068151/Eagle"
-            bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
-          >
-            A fantasy image manipulation relocating the habitat of wild animals.
-          </ProjectCard>
         </ProjectsWrapper>
-      </Projects>
+      </Projects>-->
       <About offset={3}>
         <Title>About</Title>
         <AboutHero>
@@ -127,8 +120,8 @@ const Index = () => (
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2019 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LekoArts/gatsby-starter-portfolio-cara">GitHub Repository</a>. Made by{' '}
+          &copy; 2019 by the little project management company.{' '}
+          Credit to{' '}
           <a href="https://www.lekoarts.de">LekoArts</a>.
         </Footer>
       </Contact>
