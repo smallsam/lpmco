@@ -1,14 +1,7 @@
-![](https://i.imgur.com/wfrTcgk.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9493403a-4f73-4791-b6ca-012329bbddf2/deploy-status)](https://app.netlify.com/sites/wizardly-kare-17728e/deploys)
 
-# Gatsby Starter Portfolio: Bella
+Thanks to LekoArts for the starter theme for this site.
 
-A portfolio starter for [Gatsby](https://www.gatsbyjs.org/). The target audience are designers and photographers.
-
-[Demo Website](https://portfolio-bella.netlify.com/)
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/LeKoArts/gatsby-starter-portfolio-bella)
-
-- Big Typography & Images
 - White Theme
 - [Prismic.io](https://prismic.io/) as CMS
 - One-Page layout with sub-pages for projects

@@ -12,6 +12,8 @@ import WalkingOutside from '../images/walking_outside.svg'
 import WorldIsMine from '../images/the_world_is_mine.svg'
 import ConceptualIdea from '../images/conceptual_idea.svg'
 
+import '../fonts/fonts.css'
+
 const Header = styled.header`
   width: 100%;
   height: 900px;
@@ -65,7 +67,6 @@ const Hero = styled(Flex)`
     line-height: 4.5rem;
   }
   h3 {
-    font-family: ${props => props.theme.fontFamily.body};
     margin-top: 2rem;
     font-size: 1.85rem;
     font-weight: 400;
@@ -127,18 +128,18 @@ const ServiceImage = styled.div`
   }
 `;
 
-const CompanyLogo = graphql`
-{
-  imageSharp {
-    fluid(maxHeight: 120, quality: 90, traceSVG: { color: "#021212" }) {
-      ...GatsbyImageSharpFluid_withWebp_tracedSVG
-    }
-    resize(maxHeight: 120, fit: OUTSIDE) {
-      src
-    }
-  }
-}
-`;
+// const CompanyLogo = graphql`
+// {
+//   imageSharp {
+//     fluid(maxHeight: 120, quality: 90, traceSVG: { color: "#021212" }) {
+//       ...GatsbyImageSharpFluid_withWebp_tracedSVG
+//     }
+//     resize(maxHeight: 120, fit: OUTSIDE) {
+//       src
+//     }
+//   }
+// }
+// `;
 
 const ServiceText = styled.div`
   flex-basis: calc(99.9% * 3 / 7 - 5rem);
@@ -158,6 +159,7 @@ const ServiceText = styled.div`
     content: '－';
     padding-right: 8px;
   }
+
 `;
 
 const Contact = styled(Wrapper)`
@@ -198,7 +200,7 @@ const IndexPage = ({
       <Wrapper flexDirection="column" p={4} mt={7} mb={4} mx="auto">
 
         <Flex w={1} py={5} justifyContent="space-between" flexWrap="wrap">
-          <ServiceText><h2>Are you delivering a program and want to grow your impact?</h2></ServiceText>
+          <ServiceText><h2>Are you delivering a program and want to maximise your impact?</h2></ServiceText>
           <ServiceText><h2>Do you want to create a new social impact program?</h2></ServiceText>
         </Flex>
 

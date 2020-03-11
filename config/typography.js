@@ -1,11 +1,13 @@
 import Typography from 'typography';
 
+
+
 const typography = new Typography({
     title: 'lpmco',
     baseFontSize: '18px',
     baseLineHeight: 1.45,
     headerFontFamily: [
-        'Bree Serif',
+        'Core Mellow',
         '-apple-system',
         'BlinkMacSystemFont',
         'Segoe UI',

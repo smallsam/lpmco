@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Core Mellow';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("Core-Mellow-55-Medium.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Core Mellow';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("Core-Mellow-35-Light.ttf") format("truetype");
+}
