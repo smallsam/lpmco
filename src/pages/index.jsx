@@ -254,7 +254,8 @@ const IndexPage = ({
           </ServiceImage>
           <ServiceText>
             <h2>About Carolyn</h2>
-            <p>Carolyn is a Project Strategist and a Social Impact Designer. She is also a business process nerd and secretly loves spreadsheets. Carolyn has worked around the world designing and managing community and international development programs. From managing an independent media agency in Iraq to designing a project addressing capital flight in Africa, she loves seeing the project roll out from start to finish. Carolyn supports projects from project design, funding acquisition, project oversight through to reporting.</p>
+            <p>Carolyn is a Project Strategist and a Social Impact Designer. She is also a business process nerd and secretly loves spreadsheets.</p>
+            <p>Carolyn has worked around the world designing and managing community and international development programs. From managing an independent media agency in Iraq to designing a project addressing capital flight in Africa, she loves seeing the project roll out from start to finish. Carolyn supports projects from project design, funding acquisition, project oversight through to reporting.</p>
             <p>In Australia, she assisted the transition of the National Disability Insurance Scheme into Queensland and now works with organisations who want to create greater social impact. Her passion is creating local community action and enjoys working with local organisations to make big differences in people’s lives.</p>
             <p>Carolyn holds a Masters in International and Community Development, a Bachelor of Business and is a Certified Practicing Accountant.</p>
             <p>She lives in Brisbane, Australia and has two young boys, a vintage caravan and a backyard orchard.</p>
