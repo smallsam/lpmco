@@ -34,7 +34,7 @@ const typography = new Typography({
     ],
     googleFonts: [{
         name: 'Open Sans',
-        styles: ['400'],
+        styles: ['400&display=swap'],
     }, ],
     scaleRatio: 3.998,
     headerWeight: 700,
