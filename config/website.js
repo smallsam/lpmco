@@ -3,14 +3,14 @@ module.exports = {
 
 
 
-    siteTitle: 'LPMCo', // Navigation and Site Title
-    siteTitleAlt: 'little project management company', // Alternative Site title for SEO
+    siteTitle: 'Little Project Management Company', // Navigation and Site Title
+    siteTitleAlt: 'LPMCo', // Alternative Site title for SEO
     siteTitleShort: 'lpmco', // short_name for manifest
     siteHeadline: 'managing projects for social good', // Headline for schema.org JSONLD
     siteUrl: 'https://www.lpmcompany.com.au', // Domain of your site. No trailing slash!
     siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
     siteLanguage: 'en', // Language Tag on <html> element
-    siteDescription: 'welcome to lpmco',
+    siteDescription: 'LPMCo, managing projects for social good',
     author: 'lpmco', // Author for schema.org JSONLD
 
     // siteFBAppID: '123456789', // Facebook App ID - Optional
