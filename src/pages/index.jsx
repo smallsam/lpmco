@@ -188,10 +188,17 @@ const IndexPage = ({
     <Layout>
       <Header>
         <LogoImg><img src={LPMCoLogo} alt="LPMCo" /></LogoImg>
+
         <Hero justifyContent="center" alignItems="center" flexDirection="column">
-          <h1>
+        <iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/MOwHGi-3xX4?autoplay=1&modestbranding=1&playsinline=1&color=white&iv_load_policy=3&rel=0"
+frameborder="0" allowfullscreen="1"></iframe>
+        <h1>
             Managing projects <br />for social good
         </h1>
+
+
+
           <h3>We support women founders and women-led organisations<br /> who are passionate about creating social change.</h3>
         </Hero>
       </Header>
